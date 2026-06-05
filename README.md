@@ -1,16 +1,43 @@
-## Hi there 👋
+# Santiago Parada
 
-<!--
-**santiagoparada/santiagoparada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Computational Researcher | Data Science
 
-Here are some ideas to get you started:
+**Building analytical systems for complex phenomena.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop analytical systems that transform spatial, sensory, environmental, and behavioral phenomena into measurable, structured, and reproducible datasets.
+
+---
+
+### Current Focus
+
+- Python
+- SQL
+- PostgreSQL
+- Pandas
+- Data Analysis
+- Data Engineering
+- Computational Research
+- Signal Analysis
+- Semantic Systems
+
+---
+
+### Featured Projects
+
+- SOFA 2026
+- Clouds
+- Objkt Semantic Market Analyzer
+
+---
+
+### Technical Direction
+
+Statistical rigor · Systems thinking · Rapid experimentation
+
+---
+
+### Contact
+
+- GitHub: github.com/santiagoparada
+- LinkedIn: linkedin.com/in/santiagoparada
+- Email: parada.santi@gmail.com
