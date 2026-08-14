@@ -1,8 +1,8 @@
 # Santiago Parada
 
-## Computational Researcher | Data Science
+## Data Analyst | Data Science 
 
-**Building analytical systems for complex phenomena.**
+**Transforming complex data into smarter decisions and actionable insights.**
 
 I develop analytical systems that transform spatial, sensory, environmental, and behavioral phenomena into measurable, structured, and reproducible datasets.
 
@@ -16,17 +16,16 @@ I develop analytical systems that transform spatial, sensory, environmental, and
 - Pandas
 - Data Analysis
 - Data Engineering
-- Computational Research
 - Signal Analysis
 - Semantic Systems
 
 ---
 
 ### Featured Projects
-
+- Machine-learning-business-case-studies
 - SOFA 2026
 - Clouds
-- Objkt Semantic Market Analyzer
+- ice-video-game-success-analysis
 
 ---
 
