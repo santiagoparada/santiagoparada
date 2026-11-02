@@ -34,7 +34,7 @@ My work combines customer analytics, predictive modeling, operational informatio
 ### Contact
 
 - [Portfolio](https://santiagoparada.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/santiago-parada-rodr%C3%ADguez/)
+- [LinkedIn](https://www.linkedin.com/in/santiago-parada-rodríguez/)
 - [Email](mailto:parada.santi@gmail.com)
 
 Bogotá, Colombia
